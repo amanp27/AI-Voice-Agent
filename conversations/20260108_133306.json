@@ -1,0 +1,37 @@
+{
+  "session_id": "20260108_133306",
+  "start_time": "2026-01-08T13:33:07.804200",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Hello! I'm your AI voice assistant powered by Google. I'm here to help you with anything you need.",
+      "type": "welcome"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "I said Hi",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "Hi",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "In English plz",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "wss",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-08T13:34:08.995941"
+}

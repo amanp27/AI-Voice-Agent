@@ -1,0 +1,12 @@
+{
+  "session_id": "20260108_172919",
+  "start_time": "2026-01-08T17:30:17.770657",
+  "messages": [
+    {
+      "role": "user",
+      "content": "{\"id\":\"689d746d-74e3-4540-a69f-2d8b3ef6c17c\",\"timestamp\":1767873617735,\"message\":\"can you speak in english\",\"ignoreLegacy\":true}",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-08T17:30:17.770682"
+}

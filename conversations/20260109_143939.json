@@ -1,0 +1,12 @@
+{
+  "session_id": "20260109_143939",
+  "start_time": "2026-01-09T14:43:43.543042",
+  "messages": [
+    {
+      "role": "user",
+      "content": "{\"id\":\"5fec3427-e096-4511-97a0-0691811072ad\",\"timestamp\":1767950023489,\"message\":\"hii\",\"ignoreLegacy\":true}",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-09T14:43:43.543068"
+}

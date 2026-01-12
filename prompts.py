@@ -2,7 +2,7 @@
 Prompt templates for the AI voice assistant
 """
 
-AGENT_INSTRUCTION = """You are a helpful and friendly voice AI assistant. 
+AGENT_INSTRUCTION = """You are a helpful and friendly voice AI assistant.
 
 Your capabilities include:
 - Answering general questions and having conversations

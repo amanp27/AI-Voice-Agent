@@ -1,0 +1,37 @@
+{
+  "session_id": "20260109_113140",
+  "start_time": "2026-01-09T11:33:05.295716",
+  "messages": [
+    {
+      "role": "user",
+      "content": "{\"id\":\"1391d14f-0483-4122-9b6f-0949d26f946e\",\"timestamp\":1767938585237,\"message\":\"I love football\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"0c4c8423-137c-41fc-bebf-11bbf1e946e9\",\"timestamp\":1767938610913,\"message\":\"Messi, I love messi, my inspiration\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"9deeb259-452f-447b-9824-60f18013e26f\",\"timestamp\":1767938640515,\"message\":\"and my favourate club is Arsenal and Barcelona\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"7816faf6-e24a-419b-96e2-cdca42c9444d\",\"timestamp\":1767938661640,\"message\":\"can plz check what was the last match Arsenal played\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"6dbf6991-20a8-4bec-a940-fd1ef37c999c\",\"timestamp\":1767938710977,\"message\":\"yes, very disappointing, \",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"ae4bd168-c20a-4937-afd2-b76c4097bb6f\",\"timestamp\":1767938730143,\"message\":\"Do you think Ansenal will win the League?\",\"ignoreLegacy\":true}",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-09T11:35:30.189928"
+}
