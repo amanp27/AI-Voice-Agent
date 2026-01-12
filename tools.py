@@ -65,7 +65,7 @@ async def search_web(
     except Exception as e:
         logger.error(f"Error searching the web for '{query}': {e}")
         return f"An error occurred while searching the web. Please try again."
-
+    
 
 @function_tool(description="Send an email through Gmail")
 async def send_email(
