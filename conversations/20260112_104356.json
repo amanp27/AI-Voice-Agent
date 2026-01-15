@@ -1,0 +1,27 @@
+{
+  "session_id": "20260112_104356",
+  "start_time": "2026-01-12T10:44:25.282299",
+  "messages": [
+    {
+      "role": "user",
+      "content": "{\"id\":\"17dff1c5-7cea-4047-b123-a0e401ef2e44\",\"timestamp\":1768194865229,\"message\":\"Am I audible\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"dea66b77-6834-4cdd-8f93-0ddfff0ee873\",\"timestamp\":1768194878038,\"message\":\"How are you\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"6875f197-a606-4e33-8348-08ab183028d7\",\"timestamp\":1768194889759,\"message\":\"Absoultely fine\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"b776ac2c-954f-4265-be1f-e0fd41cfc0d0\",\"timestamp\":1768194907776,\"message\":\"No thnkyou\",\"ignoreLegacy\":true}",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-12T10:45:07.839935"
+}
