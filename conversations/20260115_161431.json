@@ -1,0 +1,12 @@
+{
+  "session_id": "20260115_161431",
+  "start_time": "2026-01-15T16:14:53.083353",
+  "messages": [
+    {
+      "role": "user",
+      "content": "{\"id\":\"4cb6e7e4-24ec-4f10-9ca7-92d25dfbb93b\",\"timestamp\":1768473892963,\"message\":\"hii\",\"ignoreLegacy\":true}",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-15T16:14:53.083382"
+}

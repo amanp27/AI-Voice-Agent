@@ -1,0 +1,37 @@
+{
+  "session_id": "20260115_161506",
+  "start_time": "2026-01-15T16:15:29.379150",
+  "messages": [
+    {
+      "role": "user",
+      "content": "{\"id\":\"916552ac-d0ea-4995-9607-db2df27bd543\",\"timestamp\":1768473929291,\"message\":\"Hey, am I audible\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"fd0eb5cf-a755-40b0-aec0-fbca2abf0a4d\",\"timestamp\":1768473941647,\"message\":\"what can you do for me\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"c78b950b-c8c2-486f-8930-6c247ffe3937\",\"timestamp\":1768473977940,\"message\":\"Thats pretty Amazing\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"bc4f7364-7543-441a-bb93-42f1e24af41a\",\"timestamp\":1768473989771,\"message\":\"What tools are running in backend?\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"9252a891-8dcc-4c25-a7e2-aee7052f1cb9\",\"timestamp\":1768474013075,\"message\":\"which LLM Service you are using?\",\"ignoreLegacy\":true}",
+      "type": "text"
+    },
+    {
+      "role": "user",
+      "content": "{\"id\":\"755674b3-ab92-475e-97ad-ec9104e0666e\",\"timestamp\":1768474085858,\"message\":\"No thankyou I have total faith on you\",\"ignoreLegacy\":true}",
+      "type": "text"
+    }
+  ],
+  "end_time": "2026-01-15T16:18:05.976913"
+}
